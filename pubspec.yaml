@@ -1,0 +1,6 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.3.0
+  path: ^2.1.0
+  provider: ^6.1.1
