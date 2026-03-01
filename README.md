@@ -44,14 +44,14 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
 ```bash
-git clone [Your-GitHub-Repository-Link]
+git clone [https://github.com/hetsachaniya28/third.git]
 
 ```
 
 
 2. **Navigate to the project directory:**
 ```bash
-cd [Project-Folder-Name]
+cd [third]
 
 ```
 
